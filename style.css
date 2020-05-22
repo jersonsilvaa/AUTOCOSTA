@@ -1,0 +1,47 @@
+* {
+     margin: 0px;
+     padding: 0px;
+     font-family: 'Quicksand', sans-serif;
+}
+body {
+      background-image: url(juegos-destacada.jpg);
+      background-repeat: no-repeat;
+      background-size: 100%;
+      background-attachment: fixed;
+}
+div#vacio {
+     width: 100%;
+     height: 600px;
+}
+div#contenedor {
+     width: 100%;
+     height: 1200px;
+     background-color: white;
+}
+div#body {
+     margin: auto;
+     width: 960px;
+     height: 1000px;
+     
+}
+div#menu{
+     width: 100%;
+     height: 150px;
+ 
+}
+h2 {
+     text-align: center;
+     font-size: 2em;
+}
+nav {
+     text-align: right;
+     font-size: 2em;
+}
+main {
+     font-size: 2em;
+     color: white;
+}
+small {
+     color: black;
+     font-size: 1.1em;
+}

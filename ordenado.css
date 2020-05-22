@@ -1,0 +1,13 @@
+/*Ordena los enlaces a html*/
+.ordenar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.ordenar ul li {
+    display: inline-block;
+}
+.ordenar ul li a {
+    display: block;
+    padding: 0.5rem 1rem;
+}
